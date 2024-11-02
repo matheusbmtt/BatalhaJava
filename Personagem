@@ -1,11 +1,3 @@
-package Batalha;
-
-/**
- *
- * @author Aluno
- */
-
-
 class Personagem {
     String nome;
     int vida;
